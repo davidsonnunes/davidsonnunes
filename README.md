@@ -2,7 +2,7 @@
 ## 👨🏾 Hi!
 Bem-vindo sou Davidson Rafael👋🏾
 
-- 🔭 Formando em Banco de Dados
+- 💻 Formando em Banco de Dados
 
 - 🔎 Data Science ou Data Analytics
 
@@ -16,8 +16,7 @@ Bem-vindo sou Davidson Rafael👋🏾
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsonnunes&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
-##
-<p>
+### 🛠️ Technologies e Tools I use:
 <!-- Social badges section --> 
 <div style="display: inline_block"><br>
 <img align="center" alt="python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> 
@@ -39,16 +38,14 @@ Bem-vindo sou Davidson Rafael👋🏾
 <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white"></a>
  -->
  
-</p>
-
-<p>
-
+ 
+### 🤝 Let's get connected:
 <div> 
 <a href="https://www.linkedin.com/in/davidson-rafael/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
 </div>
-</P>
+
 
 <p>
  <!-- 
@@ -61,7 +58,7 @@ Bem-vindo sou Davidson Rafael👋🏾
 
   -->
 </p>
-
+###
 <!-- Social badges section -->
 <p align="center">
  

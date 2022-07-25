@@ -1,10 +1,13 @@
 
- ### Ola! Bem-vindo sou Davidson Rafael👋🏾
-
+## 👨🏾 Hi!
+Bem-vindo sou Davidson Rafael👋🏾
 
 - 🔭 Formando em Banco de Dados
+
 - 🔎 Data Science ou Data Analytics
+
 - 🌱 Python, Pandas, SQL, Azure, Spark, PL/SQL
+
 - 😄 Pronomes: Ele/Dele
 
 <div>

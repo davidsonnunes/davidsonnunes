@@ -44,6 +44,17 @@
 </div>
 </P>
 
+<p>
+ <!-- 
+<div align="left" height="60" width="60">
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Priscaruso&repo=ETL_com_Python&theme=radical)](https://github.com/Priscaruso/ETL_com_Python) 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Priscaruso&repo=Bookclub_project&theme=radical)](https://github.com/Priscaruso/Bookclub_project)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Priscaruso&repo=BigData-AWS&theme=radical)](https://github.com/Priscaruso/BigData-AWS)
+  </div>
+
+  -->
+</p>
 
 <!-- Social badges section -->
 <p align="center">
@@ -56,16 +67,6 @@
     <img alt="views" title="GitHub profile views" src="https://subverso.com.br/app/davidsonnunes"/></a>
 </p>
 
-##
- <!-- 
-<div align="left" height="60" width="60">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Priscaruso&repo=ETL_com_Python&theme=radical)](https://github.com/Priscaruso/ETL_com_Python) 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Priscaruso&repo=Bookclub_project&theme=radical)](https://github.com/Priscaruso/Bookclub_project)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Priscaruso&repo=BigData-AWS&theme=radical)](https://github.com/Priscaruso/BigData-AWS)
-  </div>
-
-  -->
 
 
 

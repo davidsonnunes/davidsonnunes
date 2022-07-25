@@ -2,7 +2,7 @@
 ## 👨🏾 Hi!
 Bem-vindo sou Davidson Rafael👋🏾
 
-- 💻 Formando em Banco de Dados
+-  🔭 Formando em Banco de Dados
 
 - 🔎 Data Science ou Data Analytics
 

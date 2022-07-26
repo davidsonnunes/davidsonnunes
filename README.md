@@ -43,7 +43,7 @@
 <div align="left" height="60" width="60">
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidsonnunes&repo=Python-Course&theme=merko)](https://github.com/davidsonnunes/Python-Course) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidsonnunes&repo=Python-Course&theme=merko)](https://github.com/davidsonnunes/Python-Course) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidsonnunes&repo=Python-Course&theme=merko)](https://github.com/davidsonnunes/Python-Course) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidsonnunes&repo=Python-Course&theme=merko)](https://github.com/davidsonnunes/Python-Course)   
+
   
   </div>
 
